@@ -92,9 +92,10 @@ https://www.blumenthal.senate.gov/newsroom/press/release/at-senate-commerce-hear
 
 https://www.youtube.com/watch?v=vZ5soLrvXFg (4m48s)
 
-Everyone can have an opinion. 
-I'm on the side of love, truth, fact, reality. 
-I believe in gravity ⚡️⚡️⚡️
+- Everyone can have an opinion. 
+- I'm on the side of love, truth, fact, reality. 
+- I believe in gravity ⚡️⚡️⚡️
+
 *(it is the 3D manifestation of the law of attracton, mass attracts mass)*
 
 ![](https://i.imgur.com/kqv6HqJ.jpg)
