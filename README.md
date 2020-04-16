@@ -1,5 +1,7 @@
 Make a copy: `git clone git@github.com:londonreal/5g-citizen-science.git`
 
+![](https://i.imgur.com/oWGaAqy.png)
+
 # 5G Citizen Science
 
 Let's see what science says?
@@ -16,20 +18,28 @@ Recent interview on London Real with David Icke that was taken down by YouTube h
 
 Let's see what happens.
 
-### Cost breakdown ($10k)
+### Cost breakdown (circa $10k)
 
 - 5G phones: $4,000
+- Cheap laptops for streaming: $1000
 - Autopsy research: $3,000
 - Lab rats: $500
 - Cages: $500
 - Food: $100
 - Travel: $1,000
-- Misc$: 700
-- Cables, batteries, power adapters: $200
+- Cables, batteries, power adapters, misc: $1000
+
+### Fundraising in ETH
+* https://aragon.in/citizenscience
+* https://mainnet.aragon.org/#/citizenscience/apps/installed/agent.aragonpm.eth
+* `0xfdcb12ce65e14b366a5e9dd72d91c95b44b745e8`
+
+**DON'T TRUST, VERIFY**
+
+Crytocurrencies are censorthip-resistant.
 
 ### Experiment design
 Simple, measurable, quantifiable experiment.
-
 
 #### 5G
 * 10x celltower locations, 2 cages (for reproducibility) wirh 1 rat each  
@@ -60,6 +70,7 @@ The analysis of the data will be in a double-blind pattern, the live stream will
 * Activity (apply computer vision AI machine learning to determine)
 * Appetite
 * Lifespan
+* Fertility (unsure about that one, loads of effort ensuring pregnancy, maybe in phase II)
 * Size of tumor
 * ...
 * Any other metric that is measurable, quantifable
