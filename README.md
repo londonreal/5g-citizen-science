@@ -42,11 +42,11 @@ Crytocurrencies are censorthip-resistant.
 Simple, measurable, quantifiable experiment.
 
 #### 5G
-* 10x celltower locations, 2 cages (for reproducibility) wirh 1 rat each  
+* 10x celltower locations, 2 cages (for reproducibility) with 1 rat each  
 * 5G phone live-streaming 
 
 #### not-5G
-* 0x non-celltower locations, 2 cages (for reproducibility) wirh 1 rat each  
+* 0x non-celltower locations, 2 cages (for reproducibility) with 1 rat each  
 * Laptop connected to via Ethernet cable live-streaming 
 
 
@@ -96,3 +96,5 @@ Everyone can have an opinion.
 I'm on the side of love, truth, fact, reality. 
 I believe in gravity ⚡️⚡️⚡️
 *(it is the 3D manifestation of the law of attracton, mass attracts mass)*
+
+![](https://i.imgur.com/kqv6HqJ.jpg)
