@@ -46,11 +46,11 @@ Simple, measurable, quantifiable experiment.
 * 5G phone live-streaming 
 
 #### not-5G
-* 0x non-celltower locations, 2 cages (for reproducibility) with 1 rat each  
-* Laptop connected to via Ethernet cable live-streaming 
+* 10x non-celltower locations, 2 cages (for reproducibility) with 1 rat each  
+* Laptop connected to via ethernet cable live-streaming 
 
 
-#### 5G and not-5G have all variables the same.
+#### 5G and not-5G have all variables the same
 * Live-streaming so that it is easily to verify the rats conditions are the same
 * Because celltower bases are some dark buildings, the not-5G locations should be also dark (think attic, no direct sunlight)
 * Give rats food, water, activities in the cages, but no human interaction
@@ -65,13 +65,12 @@ https://en.wikipedia.org/wiki/Masaru_Emoto
 
 The analysis of the data will be in a double-blind pattern, the live stream will not have any identifiable data, whether the rats are in the 5G or not-5G location.
 
-
 ### Metrics:
 * Activity (apply computer vision AI machine learning to determine)
 * Appetite
 * Lifespan
 * Fertility (unsure about that one, loads of effort ensuring pregnancy, maybe in phase II)
-* Size of tumor
+* Size of tumors
 * ...
 * Any other metric that is measurable, quantifable
 
@@ -80,7 +79,7 @@ I’ve never been in the business of rat testing. Apparently they are standardiz
 * https://en.wikipedia.org/wiki/Laboratory_rat
 * https://larc.ucsf.edu/sites/larc.ucsf.edu/files/wysiwyg/Charles%20River%202015.pdf
 
-I'm morally OK for these rats to have life in a well designed cage. Their life will not be sacrificed, they are serving higher purpose. Every donation about $100 - you can name your rat! And upon autopsy we will send you the body - if that is legal in your jurisdiction
+I'm morally OK for these rats to have life in a well designed cage. Their life will not be sacrificed, they are serving higher purpose. Every donation above $200 - you can name your rat! And upon autopsy we will send you the body - if that is legal in your jurisdiction
 
 ### One of the many opinions
 
