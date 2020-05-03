@@ -1,4 +1,4 @@
-Make a copy: `git clone git@github.com:londonreal/5g-citizen-science.git`
+Make a copy: `git clone git@github.com:londonreal/citizen-science.git`
 
 ![](https://i.imgur.com/oWGaAqy.png)
 
