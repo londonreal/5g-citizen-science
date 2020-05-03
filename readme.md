@@ -1,4 +1,4 @@
-Make a copy: `git clone git@github.com:londonreal/citizen-science.git`
+# Website: https://genesis.re/citizenscience/
 
 # Citizen Science
 
@@ -28,9 +28,7 @@ Let's see what happens.
 - Cables, batteries, power adapters, misc: $1000
 
 ### Fundraising in ETH
-* https://aragon.in/citizenscience
-* https://mainnet.aragon.org/#/citizenscience/apps/installed/agent.aragonpm.eth
-* `0xfdcb12ce65e14b366a5e9dd72d91c95b44b745e8`
+`0x0000000ed9aa4172a16c4f8178961ea6dcb6aac9`
 
 **DON'T TRUST, VERIFY**
 
