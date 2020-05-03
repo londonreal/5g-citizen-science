@@ -1,6 +1,4 @@
-# Website: https://genesis.re/citizenscience/
-
-# Citizen Science
+# **https://genesis.re/citizenscience**
 
 Let's see what science says?
 
@@ -29,6 +27,8 @@ Let's see what happens.
 
 ### Fundraising in ETH
 `0x0000000ed9aa4172a16c4f8178961ea6dcb6aac9`
+
+<img src="https://raw.githubusercontent.com/londonreal/citizen-science/master/qr.png" width="600">
 
 **DON'T TRUST, VERIFY**
 
@@ -90,7 +90,5 @@ https://www.youtube.com/watch?v=vZ5soLrvXFg (4m48s)
 - Everyone can have an opinion. 
 - I'm on the side of love, truth, fact, reality. 
 - I believe in gravity ⚡️⚡️⚡️
-
-*(it is the 3D manifestation of the law of attracton, mass attracts mass)*
 
 ![](https://i.imgur.com/kqv6HqJ.jpg)
