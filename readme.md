@@ -1,6 +1,12 @@
-# **[genesis.re/citizenscience](https://genesis.re/citizenscience)**
+## **[genesis.re/citizenscience](https://genesis.re/citizenscience)**
 
-Let's see what science says?
+## [youtube.com/watch?v=vkCOZiqOhBM](https://www.youtube.com/watch?v=vkCOZiqOhBM)
+
+![](https://raw.githubusercontent.com/londonreal/citizen-science/master/london-real-david-icke.jpg)
+
+### Fundraising in ETH `0x0000000ed9aa4172a16c4f8178961ea6dcb6aac9`
+
+### Let's see what science says?
 
 Celebrating **FREE SPEECH** and **HUMAN RIGHTS**
 
@@ -24,11 +30,6 @@ Let's see what happens.
 - Food: $100
 - Travel: $1,000
 - Cables, batteries, power adapters, misc: $1000
-
-### Fundraising in ETH
-`0x0000000ed9aa4172a16c4f8178961ea6dcb6aac9`
-
-<img src="https://raw.githubusercontent.com/londonreal/citizen-science/master/qr.png" width="600">
 
 **DON'T TRUST, VERIFY**
 
@@ -91,6 +92,10 @@ https://www.youtube.com/watch?v=vZ5soLrvXFg (4m48s)
 - I'm on the side of love, truth, fact, reality. 
 - I believe in gravity ⚡️⚡️⚡️
 
-![](https://i.imgur.com/kqv6HqJ.jpg)
+### Corporate wageslave ~cubicle~ open plan commuter
+
+A friend messaged me via FB messanger. I was aware of 5G concerns, did my research, never publicly questioned official doctrine of the corporation.
 
 ![](https://raw.githubusercontent.com/londonreal/citizen-science/master/5g-base-station-office.png)
+
+No longer employed, now I'm in the camp of **FREEEDOM OF SPEECH**.
